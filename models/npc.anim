@@ -1,0 +1,5 @@
+mpf 7
+idle 0 1
+walk 1 16
+run 17 10
+dead 27 1

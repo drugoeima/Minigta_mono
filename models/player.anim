@@ -1,0 +1,9 @@
+mpf 7
+idle 0 1
+run 1 10
+sprint 11 10
+air 21 1
+aim 22 1
+aimrun 23 10
+airaim 33 1
+gun -0.0971 1.4107 0.4667
